@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The propositions of His Excellency Sir Thomas Fairfax, and the officers in that army; made to the Right Honourable the Houses of Parliament, before their drawing back the quarters of the army to a further distance from London. Together with the copy of a warrant.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84936</idno>
+            <idno type="STC">Wing F224</idno>
+            <idno type="STC">Thomason E394_19</idno>
+            <idno type="STC">ESTC R201632</idno>
+            <idno type="EEBO-CITATION">99862132</idno>
+            <idno type="PROQUEST">99862132</idno>
+            <idno type="VID">160335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160335)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The propositions of His Excellency Sir Thomas Fairfax, and the officers in that army; made to the Right Honourable the Houses of Parliament, before their drawing back the quarters of the army to a further distance from London. Together with the copy of a warrant.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated: Uxbridge June 27. 1647.</note>
+                  <note>Annotation on Thomason copy: June 29.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160335:1" rendition="simple:additions"/>
+            <p>THE PROPOSITIONS OF HIS EXCELLENCY Sir <hi>THOMAS FAIRFAX,</hi> AND The Officers in that Army; MADE To the Right Honorable the Houſes <hi>OF</hi> PARLIAMENT, Before their drawing back the Quarters of the Army to a further diſtance from <hi>LONDON.</hi>
+            </p>
+            <p>Together with the Copy of a Warrant.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:160335:2"/>
+            <pb n="1" facs="tcp:160335:2"/>
+            <head>THE PROPOSITIONS OF His Excellency S<hi rend="sup">r</hi>. <hi>Thomas Fairfax,</hi> And the reſt of the Officers in that ARMY.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Right Honorable Com<g ref="char:EOLhyphen"/>miſſioners of Parliament have de<g ref="char:EOLhyphen"/>ſired to know from us what things wee doe deſire to be granted before our drawing back the Quarters of the Army to a further diſtance from <hi>London,</hi> upon the granting whereof wee will ingage to draw back; wee doe in anſwer thereunto humbly propoſe theſe particulars following, as what are of pre<g ref="char:EOLhyphen"/>ſent neceſſitie to us; And doe wee at preſent deſire to bee granted in order to the Armies and kingdomes preſent ſafetie in the further debate, tranſaction and ſettlement of thoſe other things contained in our former repreſentations and papers, which will require and may admit more time: Upon the granting of which things, wee ſhall wil<g ref="char:EOLhyphen"/>lingly
+<pb n="2" facs="tcp:160335:3"/>draw back as is deſired to have thoſe other matters debated and tranſacted at a further diſtance, with delibe<g ref="char:EOLhyphen"/>ration anſwerable to the nature and weight of them.</p>
+            <p n="1">1 That the Parliament would bee pleaſed to recall the De<g ref="char:EOLhyphen"/>claration inviting men to deſert the Army, and promiſing their Arreares in caſe they doe ſo, and to declare for fu<g ref="char:EOLhyphen"/>ture, that whoſoever ſhall deſert their Colours, or charges in the Army, without the Generalls particular licenſe and diſ<g ref="char:EOLhyphen"/>charge, ſhall not have any of their Arrears paid them.</p>
+            <p n="2">2 That the Army may bee paid up equally to thoſe that have deſerted it, this wee deſire may bee immediatly granted or reſolved, before wee draw back, and to bee performed (at leaſt) to the private Souldiers fully, and in part to the Officers, with all ſpeed convenient.</p>
+            <p n="3">3 That thoſe that have deſerted the Army may bee in<g ref="char:EOLhyphen"/>ſtantly diſcharged and diſperſed, and receive no more of their Arreares till the Army bee firſt ſatisfied.</p>
+            <p n="4">4 That both Parliament and Citie may be ſpeedily and ef<g ref="char:EOLhyphen"/>fectually freed from the multitudes of Reformadoes and other Souldiers before mentioned, that flock together in or about <hi>London</hi> by a ſpeedy diſpatch and diſcharging them from the Citie.</p>
+            <p n="5">5 That all ſuch liſtings and raiſings of new Forces, or drawing together of any, (as in our Remonſtrance and Pa<g ref="char:EOLhyphen"/>pers are expreſſed) and all preparations towards a new Warre may bee effectually declared againſt and ſuppreſſed, as alſo all invitations or indeavours to draw in foraign Forces either from <hi>Scotland,</hi> or other foraign parts.</p>
+            <p n="6">6 That the continuation of the Army, in the pay of the State for ſome compitent time (whiles the matters in debate relating both to the Army and Kingdom may be concluded and ſetled) bee at preſent ordered and declared for (before our drawing back) and the ſame with all ſpeed to bee effe<g ref="char:EOLhyphen"/>ctually put into an eſtabliſhed way that the Army may bee inabled to pay quarters for the eaſe of the Country where it muſt lie, and the Souldiery the better kept from abuſe to the Countrey and reduced to that good order and diſci<g ref="char:EOLhyphen"/>pline which hath formerly beene happily kept in this Ar<g ref="char:EOLhyphen"/>my,
+<pb n="3" facs="tcp:160335:3"/>though of late (through want of pay and other juſt diſcontents with the late provocations put upon them un<g ref="char:EOLhyphen"/>happily interrupted.</p>
+            <p n="7">7 That during the ſame ſpace the Parliament would re<g ref="char:EOLhyphen"/>ſolve not to propoſe any place for his Majeſties reſidence nearer to <hi>London</hi> then they will allow the quarters of the Army to bee.</p>
+            <p>Now for our former deſire of preſent ſuſpending the impeached members from ſitting in the Houſe.</p>
+            <p n="1">1. Whereas (wee underſtand) the houſe hath voted that it doth not appeare that any thing hath beene ſaid or done by them within the houſe touching any mat<g ref="char:EOLhyphen"/>ter contained in the Papers from the Army for which the houſe can in juſtice ſuſpend them, though, (if way were given and opened without breach of priviledge) for us to charge them with, and for others to bee exa<g ref="char:EOLhyphen"/>mined (and freely to teſtifie unto ſuch things) wee ſhould not doubt to make ſuch proceedings and practiſes of theirs in the Houſe to appeare, for which according to former preſidents they juſtly ought and might bee ſuſpen<g ref="char:EOLhyphen"/>ded; yet wee are ſo tender of the Priviledges of Parliament, as that we ſhall at preſent forbeare to reply or preſſe further upon that point for the Houſes proceedings therein upon their owne cognizance.</p>
+            <p n="2">2 Whereas the Houſe hath Voted that by the Lawes of the Land, no Judgement can bee given to ſuſpend thoſe Members from ſitting in the Houſe upon the Papers preſen<g ref="char:EOLhyphen"/>ted by the Army before particulars produced, and proofes made, though we thinke good Reaſons may be given and preſidents found to the contrary, even in the proceedin<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of this Parliament, as in the caſe of the Earl of <hi>Straffor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the Arch-Biſhop of <hi>Canterbury,</hi> Lord Keeper <hi>Finch,</hi> and others yet wee doe Declare, That wee have both particulars and proofes againſt them ready to produce; But conſidering that the proceeding thereupon will probably take up much time, and the preſent unſetled affaires of the Kingdome in relation to thoſe greater matters propoſed by us doe require a ſpeedy confideration; Wee ſhall bee willing that thoſe
+<pb n="4" facs="tcp:160335:4"/>greater and more generall matters of the Kingdome b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> firſt conſidered of, and ſetled before the cenſure of thoſe Members bee determined, and therefore becauſe they may apprehend it ſome prejudice to them to have their particular charges given in, and lye upon them ſo long undetermined, we ſhall bee willing to forbeare the giving in of the particu<g ref="char:EOLhyphen"/>lars againſt them, till they may without interruption to the generall Affaires be immediately proceeded upon; but if the Houſe doe think fit the particulars againſt them be firſt deli<g ref="char:EOLhyphen"/>vered in, we ſhall be ready to doe it.</p>
+            <p n="3">3. Whereas we underſtand that the Members charged, have deſired leave from the Houſe to withdraw themſelves, wee cannot but take notice of the modeſty thereof, ſo far as that we are contented therewith for the preſent more quiet proceeding to ſettle the perplexed affaires of the kingdome (which without any private animofities againſt perſons) is our greateſt end in what wee doe, onely wee declare that (as wee ſuppoſe the Gentlemen themſelves from the ſame grounds that induced them to offer this, will ſtill forbear to offer the contrary till the matters concerning them be heard and determined, or to make any new interruption or di<g ref="char:EOLhyphen"/>ſturbance to the proceeding upon, or ſettlement of the ge<g ref="char:EOLhyphen"/>nerall affaires of the kingdome, ſo wee hope and ſhall con<g ref="char:EOLhyphen"/>fidently expect that the wiſdome and juſtice of the Houſe will not admit any thing to the contrary or leave it to an hazard thereof, but will uſe ſufficient care and caution a<g ref="char:EOLhyphen"/>gainſt any ſuch thing. And for the bringing of thoſe Mem<g ref="char:EOLhyphen"/>bers to tryall when the houſe ſhall judge is more ſeaſonable and ſafe as before expreſſed.</p>
+            <closer>
+               <dateline>Uxbridge <date>June 22. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excellency Sir <hi>THOMAS FAIRFAX </hi> and the Councell of Warre. Signed <hi>Jo. Ruſhworth,</hi>Secretary.</signed>
+            </closer>
+         </div>
+         <div type="warrant">
+            <pb n="5" facs="tcp:160335:4"/>
+            <opener>
+               <dateline>
+                  <g ref="char:V">Ʋ</g>xbridge <date>27. Junii 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas, without order from the Gene<g ref="char:EOLhyphen"/>rall or the Councell of Warre, Com<g ref="char:EOLhyphen"/>miſſary <hi>Cowly</hi> hath iſſued out War<g ref="char:EOLhyphen"/>rants to ſome hundreds within leſſe then a mile of <hi>London,</hi> to bring provi<g ref="char:EOLhyphen"/>ſions from thence into the Army; which he preten<g ref="char:EOLhyphen"/>ded to be, to be Rendezvouzed between <hi>London</hi> &amp; <hi>Vxbridge;</hi> whereas there was no ſuch thing ordered either by the Generall or his Councell of Warre. It is therefore this day Ordered by the Generall and his Councell of VVarre, that the ſaid Com<g ref="char:EOLhyphen"/>miſſary <hi>Cowly</hi> ſhall ſtand committed, and hee is hereby committed to the Marſhall from whence hee is not to bee diſcharged untill he hath given ſa<g ref="char:EOLhyphen"/>tisfaction to the Commiſſioners for the City of <hi>London</hi> reſiding at <hi>Vxbridge.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>John Ruſhworth</hi> Secretary.</signed>
+            </closer>
+            <trailer>To <hi>Captaine Lawrence,</hi> Provoſt Marſhall Ge<g ref="char:EOLhyphen"/>nerall.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
